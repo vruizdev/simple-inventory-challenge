@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="menu-navbar">
 	<div class="container-fluid mx-4">
 		<!-- Logotipo -->
-		<a class="navbar-brand" href="/phone-opsx-v3/dashboard">
+		<a class="navbar-brand" href="index.php?view=home">
 			<!-- <img src="/img/logo.png" alt="PhoneOPSx - Oclinicals" width="30" height="30"> -->
             <svg  xmlns="http://www.w3.org/2000/svg"  width="30"  height="30"  viewBox="0 0 25 25"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-building-warehouse"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 21v-13l9 -4l9 4v13" /><path d="M13 13h4v8h-10v-6h6" /><path d="M13 21v-9a1 1 0 0 0 -1 -1h-2a1 1 0 0 0 -1 1v3" /></svg>
 			<span class="ms-2">Simple Inventory</span>
@@ -17,7 +17,7 @@
 		<div class="collapse navbar-collapse" id="navbar__expand">
 			<ul class="navbar-nav me-auto mb-2 mb-sm-0">
 				<li class="nav-item">
-					<a class="nav-link active" aria-current="page" href="/phone-opsx-v3/dashboard">
+					<a class="nav-link active" aria-current="page" href="index.php?view=home">
 						<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home-shield mb-1" width="18" height="18" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 21v-6a2 2 0 0 1 2 -2h1.341" /><path d="M19.682 10.682l-7.682 -7.682l-9 9h2v7a2 2 0 0 0 2 2h5" /><path d="M22 16c0 4 -2.5 6 -3.5 6s-3.5 -2 -3.5 -6c1 0 2.5 -.5 3.5 -1.5c1 1 2.5 1.5 3.5 1.5z" /></svg>
 						Home
 					</a>
